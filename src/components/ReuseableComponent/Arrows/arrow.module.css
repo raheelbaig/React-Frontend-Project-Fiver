@@ -1,0 +1,25 @@
+.main {
+    justify-content: center;
+    align-items: center;
+    /* border: 1px solid blue; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.arrow {
+margin: -6px 5px;
+
+    /* height: 10px; */
+    /* margin: 0;
+    padding: 0; */
+    /* border: 1px solid black;    */
+}
+
+.arrow img {
+margin: 3px 0;
+color: #C3C3C3;
+
+    /* height: 20px; */
+    /* border: 1px solid black;    */
+}
